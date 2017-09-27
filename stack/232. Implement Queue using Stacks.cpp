@@ -4,7 +4,7 @@
 using namespace std;
 class MyQueue 
 {
-	stack<int> in,out;
+    stack<int> in,out;
 public:
     void push(int x)
     {
