@@ -3,7 +3,7 @@
 #include <queue>
 using namespace std;
 class MyStack {
-	queue<int> q;
+    queue<int> q;
 public:
     void push(int x)
     {
